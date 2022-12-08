@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IndigoWare<br>👯 I’m looking to collaborate on projects Back-End<br>🤝 I’m looking for help with new knowledges<br>🌱 I’m currently learning programming on college (2/2)<br>💬 Ask me about anything!
+🔭 I’m currently working on IndigoWare<br>👯 I’m looking to collaborate on projects Back-End<br>🤝 I’m looking for help with new knowledges<br>🌱 I’m currently learning programming on college (2/2)<br>💬 Ask me about anything!<br>📫 How to reach me contatomilenadev@gmail.com
 
 
 ## 🌐 Socials:
